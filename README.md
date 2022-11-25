@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shivsid1
-- 👀 I’m interested in ...Web3 Dev
-- 🌱 I’m currently learning ...Javascript, Python, React.JS, Solidity
-- 💞️ I’m looking to collaborate on ...DAOs, unique Web3 projects
+- 🪬 Hi, I’m Shivam 🐻
+- 🔭 I’m currently working on audio & speech separation 
+- 🌱 I’m currently learning ... R, Python and React.JS
+- 🤝 I’m looking to collaborate on ... Data Sci/ML projects 
 - 📫 How to reach me ...siddaiya.shivam@gmail.com
 
 <!---
