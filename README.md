@@ -1,7 +1,6 @@
 - 🪬 Hi, I’m Shivam 🐻
-- 🔭 I’m currently working on audio & speech separation 
 - 🌱 I’m currently learning ... R, Python and React.JS
-- 🤝 I’m looking to collaborate on ... Data Sci/ML projects 
+- 🤝 I’m looking to collaborate on ... Data Sci and AI projects 
 - 📫 How to reach me ...siddaiya.shivam@gmail.com
 
 <!---
