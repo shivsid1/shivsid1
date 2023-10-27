@@ -1,5 +1,5 @@
 - 🪬 Hi, I’m Shivam 🐻
-- 🌱 I’m currently learning ... R, Python and React.JS
+- 🌱 I’m currently learning ... Applied Mathematics and Data Engineering
 - 🤝 I’m looking to collaborate on ... Data Sci and AI projects 
 - 📫 How to reach me ...siddaiya.shivam@gmail.com
 
